@@ -2,6 +2,7 @@
 
 Just a selection of different python algorythms which came along my way and I wanted to save for future use.
 https://de.wikipedia.org/wiki/Liste_von_Algorithmen
+https://xlinux.nist.gov/dads/
  
 ###Aufgenommen:##
 ##Sortier Algorythmen
